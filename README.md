@@ -162,7 +162,9 @@ We have now successfully converted our application into using `Context API` 🔥
 - Use the Provider Component from `ProductContext` and `CartContext` to provide data to child components
 - Consume data using the `useContext` hook from `ProductContext` and `CartContext`
 
-## Stretch Problems
+## Stretch
+
+> [COMPLETE]
 
 Do not attempt stretch problems until MVP has been reached and a final commit has been made.
 
